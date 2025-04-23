@@ -3,7 +3,6 @@ package br.com.fiap.locatech.locatech.controllers;
 import br.com.fiap.locatech.locatech.dtos.AluguelRequestDTO;
 import br.com.fiap.locatech.locatech.dtos.ResourceNotFoundDTO;
 import br.com.fiap.locatech.locatech.entities.Aluguel;
-import br.com.fiap.locatech.locatech.entities.Pessoa;
 import br.com.fiap.locatech.locatech.services.AluguelService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
